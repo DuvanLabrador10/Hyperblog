@@ -4,5 +4,6 @@ Este es un archivo de prueba.
 
 Esta es una linea nueva.
 
-Este es otro texto en donde vamos a ser un poco mas espcecificos, ejemplo mi perra roma tiene 2 años
-y mi gata teresa tiene 1 año.
+Este es otro texto en donde vamos a ser un poco mas espcecificos, ejemplo mi perra roma tiene 3 años
+y mi gata teresa tiene 2 año.
+Aqui tenemos a lola, lupe, siri y bambi.
