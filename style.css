@@ -19,11 +19,16 @@ p {
 .header--principal {
     list-style: none;
     display: flex;
+    background-color: blue;
+    box-shadow: 0px 5px 30px 0px rgba(0, 0, 0, 0.8);
+    border-radius: 2px;
+    border: solid white;
     
 }
 
 .header--principal a {
     text-decoration: none;
+    color: white;
 }
 
 .header--principal li {
