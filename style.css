@@ -35,3 +35,8 @@ p {
 .header--principal li {
     margin: 0 10px;
 }
+
+.header--principal img {
+    width: 100px;
+    height: 50px;
+}
