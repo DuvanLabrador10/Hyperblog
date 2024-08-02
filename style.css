@@ -28,7 +28,7 @@ p {
 
 .header--principal a {
     text-decoration: none;
-    color: white;
+    color: red;
 }
 
 .header--principal li {
