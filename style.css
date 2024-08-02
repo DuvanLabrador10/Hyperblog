@@ -15,3 +15,17 @@ p {
     border: 1px solid #DDD;
     margin: 0 auto;
 }
+
+.header--principal {
+    list-style: none;
+    display: flex;
+    
+}
+
+.header--principal a {
+    text-decoration: none;
+}
+
+.header--principal li {
+    margin: 0 10px;
+}
